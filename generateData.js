@@ -2,11 +2,11 @@ import fs from "fs";
 import fetch from "node-fetch";
 
 const gameIds = [
-        5991139138, 7577218041, 6936093513, 5374476232, 13716027142, 4759813126, 1680246327, 4410725758, 5134533546, 7429991374, 7629331599, 7745789104, 8118561812
+        6931042565, 5835368537, 3714399416, 4051781553
 ];
 
 
-const proxyUrl = "https://rubicon.bloxyhdd.workers.dev/?url=";
+const proxyUrl = "https://dry-surf-5314.bloxyhdd.workers.dev/?url=";
 const BATCH_SIZE = 75;
 const REQUEST_TIMEOUT_MS = 20000;
 const MAX_ATTEMPTS = 4;
